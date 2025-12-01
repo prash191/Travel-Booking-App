@@ -35,5 +35,5 @@ A web application for tour booking with additional features and technical advanc
   - `/api/v1/reviews` - Review submission and retrieval.
   - `/api/v1/bookings` - Tour booking operations.
 
-The project is built with best practices for scalability, security, and maintainability in the Node.js and MongoDB ecosystem.
+The project is built with best practices for scalability, security, and maintainability in the Node.js, Express.js and MongoDB ecosystem.
 
